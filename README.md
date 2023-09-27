@@ -3,7 +3,7 @@ ProyectoBackend - Biblioteca Digital
 
   **LEER ANTES DE COMENZAR**
 
-  ESte proyecto tiene la finalidad de crear una biblioteca virtual personalizada: añadir, eliminar, editar y 
+  Este proyecto tiene la finalidad de crear una biblioteca virtual personalizada: añadir, eliminar, editar y 
   actualizar la información sobre libros de texto de tu preferencia, como su nombre, paginas, 
   año de publicación y editorial.
 
