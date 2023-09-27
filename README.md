@@ -9,8 +9,7 @@ ProyectoBackend - Biblioteca Digital
     Bootstrap - referenciado en cdn.
     Datatables - referenciado en cdn.
   
-  Se debe iniciar en la terminal el archivo "app.js".
-  *Puedes utilizar "nodemon" o,
-  Usar el método integrado de Node -v:18 "watch" para actualizar automáticamente.
+  Se debe iniciar en la terminal el archivo "app.js" con el comando "node app.js".
+  *Puedes utilizar "nodemon".
 
 Espero te sirva, saludos_!
